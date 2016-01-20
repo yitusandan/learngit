@@ -6,3 +6,6 @@ Creating a new branch is quick and simple.
 
 --no-ff
 stash test
+
+remote conflits test
+
