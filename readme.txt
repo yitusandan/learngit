@@ -8,4 +8,4 @@ Creating a new branch is quick and simple.
 stash test
 
 remote conflits test
-
+remote conflits test 2
